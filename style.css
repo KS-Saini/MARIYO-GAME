@@ -1,0 +1,27 @@
+html,
+body {
+  margin: auto;
+}
+
+/* THIS IS CANVAS STYLE*/
+canvas {
+  display: block;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 90px;
+  margin-bottom: 20px;
+}
+
+.heading {
+  margin-left: 20px;
+  margin-top: 10px;
+  color: blue;
+  font-weight: bold;
+  letter-spacing: 3px;
+  font-family: arial;
+}
+/* 
+.score {
+  font-size: 50px;
+  color: blue;
+} */
